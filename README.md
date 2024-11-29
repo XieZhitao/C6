@@ -1,2 +1,2 @@
 # C6
-《C Primer Plus》第6版学习仓库
+《C Primer Plus》第 6 版学习仓库
